@@ -1,11 +1,9 @@
 # marianasvirzhevska.github.io
-
 ## This is my new repo 
 
------
 Description will appear here soon.
-
 -----
+
 ## Git Reference
 
 - **git status** - info about changes, staged and unstaged.
