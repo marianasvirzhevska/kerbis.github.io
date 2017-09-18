@@ -3,7 +3,7 @@
 ## This is my new repo 
 
 -----
-Description will appear here somewhen.
+Description will appear here soon.
 
 -----
 ## Git Reference
