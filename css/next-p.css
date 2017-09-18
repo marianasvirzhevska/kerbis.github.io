@@ -1,0 +1,149 @@
+/* about us, all next pages */
+
+.container div.img-box{
+    background-color: #bfbfbf;
+    box-sizing: padding-box;
+}
+#our-history .our-photo,
+#solar-panels .our-photo,
+#solar-collectors .our-photo,
+#geothermal-pump .our-photo{
+    margin: 10px 35px;
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+#our-history .content-style{
+    padding: 15px 5px 10px 20px;
+    margin: 20px 5px;
+}
+#our-history .product-photo{
+    display: block;
+    margin-top: -15px;
+    margin-left: 10px;
+    padding: 10px 10px;
+    height: 200px;
+    width: 180px;
+    float: right;
+}
+#our-history .moved-img{
+    background-color: #999999;
+   margin-top: 50px;
+   margin-right: 50px;
+   height: 230px;
+   width: 200px;
+}
+#our-history .product-photo1{
+    display: block;
+    margin: 10px 10px 15px 50px;
+    padding: 10px 10px;
+    height: 200px;
+    width: 180px;
+    float: left;}
+#our-history .first-product{
+    margin-right: 50px;
+    float:right;
+}
+#our-history .moved-img1{
+   margin-right: 15px;
+   height: 180px;
+    width: 160px;
+  
+}
+#todays .img-block{
+    align-items: center;
+}
+#todays .product-photo1{
+    display: block;
+    margin: 10px 20px;
+    height: 200px;
+    width: 30%;
+    background-color: #999999;
+}
+
+/* products */
+
+article{
+    margin: 30px 10px;
+}
+#geothermal-pump .btn-center{
+    margin-top: 15px;
+}
+
+/* portfolio */
+
+#solar-panels-portfolio{
+    max-width: 950px;
+    padding: 10px;
+}
+ .portfilio-container{
+    width:100%;
+	max-width: 950px;
+    margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+ .block-first{
+    background-color: #a6a6a6;
+    min-height: 430px;
+	font-size: 40px;
+    flex:auto;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+ .portfolio-container-right{
+    margin-left: 30px;
+	display: flex;
+	flex: 0 0 220px;
+	flex-direction: column;
+}
+ .portfolio-block-item{
+    background: #a6a6a6;
+	min-height: 200px;
+	flex: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+ .portfolio-block-item:last-child{
+    margin-bottom: 0;
+} 
+/* contact us */
+#contacts{
+    background-color: #cccccc;
+}
+.contacts{
+    display:flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+.contact-block{
+display: flex;
+flex-direction: column;
+flex: 1;
+background: #f2f2f2;
+padding: 15px 20px;
+}
+.contact-style{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.contact-style--contact-right{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+}
+.contact-items{}
+.map{
+    background: #999999;
+    padding: 20px 15px;
+    min-height: 250px;
+}
+ .cursor{
+    cursor: pointer;
+    text-decoration: underline;
+}

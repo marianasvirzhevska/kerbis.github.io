@@ -2,7 +2,6 @@
 
 ## This is my new repo 
 
------
 Description will appear here somewhen.
 
 -----
